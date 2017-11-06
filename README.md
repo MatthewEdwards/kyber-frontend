@@ -5,7 +5,9 @@ Kyber-Frontend
 [![GitHub issues](https://img.shields.io/github/issues/matthewedwards/kyber-frontend.svg)](https://github.com/matthewedwards/kyber-frontend/issues)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-green.svg)
 
-Kyber-Frontend is the frotend application server for the kyber new dashboard. It is developed with ReactJS.
+Kyber-Frontend is the frotend application for the kyber news dashboard. It is developed with ReactJS.
+
+![Screenshot](/docs/images/kyber.png)
 
 ## Table of Contents
 - [Installation](#installation)
