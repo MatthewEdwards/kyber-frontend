@@ -1,0 +1,36 @@
+body, .section, .hero, .footer{
+	background-color: #16282B;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 100;
+}
+
+.content{
+	font-weight: 400;
+}
+
+.card {
+  height: 100%;
+
+}
+
+.article-date{
+	float:right;
+}
+
+.live-data{
+	padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+.heading{
+	color: #fff;
+}
+
+.title{
+	color: #fff;
+}
+
+.subtitle, .footer-text{
+	color: #fff;
+}
+
